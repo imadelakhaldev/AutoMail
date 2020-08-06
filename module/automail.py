@@ -1,4 +1,4 @@
-# Imad Elakhal | Smartest Programmer Who Has Ever Lived.
+# Imad Elakhal | Smartest Programmer Ever Lived.
 
 import smtplib
 from email.message import EmailMessage
@@ -86,3 +86,4 @@ class AutoMail:
         except Exception as ex:
             print("Unable to send bulk messages.")
             print(ex)
+

@@ -88,4 +88,4 @@ users = ["user1@example.com", "user2@example.com", "user3@example.com", "user4@e
 bot.send_messages("example@gmail.com", users)
 ```
 
-## Imad Elakhal | Smartest Programmer Who Has Ever Lived.
+### Imad Elakhal | Smartest Programmer Ever Lived.
