@@ -67,7 +67,7 @@ bot.add_attachment("/Users/exampleuser/Desktop/report.pdf")
 bot.send_message("example@gmail.com", "terry-davis@templeos.org")
 ```
 
-HTML email example
+HTML email example.
 ```
 from automail import AutoMail
 
@@ -77,7 +77,7 @@ bot.add_attachment("/Users/exampleuser/Desktop/report.pdf")
 bot.send_message("example@gmail.com", "terry-davis@templeos.org")
 ```
 
-Bulk HTML email example
+Bulk HTML email example.
 ```
 from automail import AutoMail
 
